@@ -1,0 +1,2 @@
+# minifier
+vscode minifier
